@@ -1,2 +1,2 @@
 # GlamGrab
-javaScript, nodeJs, express, react
+Basic ecommerce website using javaScript, Mongoose, Express, React
